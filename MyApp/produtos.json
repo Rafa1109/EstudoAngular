@@ -1,0 +1,79 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Mouse Microsoft",
+            "valor": 15.90,
+            "promocao": false,
+            "valorPromo": 0,
+            "imagem": "mouse.jpg"
+        },
+        {
+            "id": 2,
+            "nome": "Teclado Microsoft",
+            "valor": 30.90,
+            "promocao": false,
+            "valorPromo": 0,
+            "imagem": "teclado.jpg"
+        },
+        {
+            "id": 3,
+            "nome": "Monitor Microsoft",
+            "valor": 250.00,
+            "promocao": false,
+            "valorPromo": 0,
+            "imagem": "monitor.jpg"
+        },
+        {
+            "id": 4,
+            "nome": "LapTop Asus",
+            "valor": 3000.00,
+            "promocao": true,
+            "valorPromo": 500.00,
+            "imagem": "laptopAsus.jpg"
+        },
+        {
+            "id": 5,
+            "nome": "Smartphone Moto g7 plus",
+            "valor": 1500.90,
+            "promocao": false,
+            "valorPromo": 0,
+            "imagem": "motog7.jpg"
+        },
+        {
+            "id": 6,
+            "nome": "Xiaomi Airdots S",
+            "valor": 125.90,
+            "promocao": false,
+            "valorPromo": 0,
+            "imagem": "airdotsS.jpg"
+        },
+        {
+            "id": 7,
+            "nome": "Mi band 5",
+            "valor": 220.00,
+            "promocao": false,
+            "valorPromo": 0,
+            "imagem": "miBand5.jpg"
+        },
+        {
+            "id": 8,
+            "nome": "PS5",
+            "valor": 7800.00,
+            "promocao": false,
+            "valorPromo": 0,
+            "imagem": "ps5.jpg"
+        },
+        {
+            "id": 9,
+            "nome": "Xbox Series X",
+            "valor": 3500.90,
+            "promocao": false,
+            "valorPromo": 0,
+            "imagem": "xbox.jpg"
+        }
+    ],
+    "posts": [
+        { "id": 1, "title": "json-server", "author": "typicode" }
+      ]
+}
